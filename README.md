@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Welcome to Fyutrex
 
-<!--
-**fyutrex1/fyutrex1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Future. Tech. Excellence.
 
-Here are some ideas to get you started:
+🚀 Fyutrex is building AI-first, cloud-native, developer-focused tools  
+🔧 From scalable infra to 3D NeRF tools and SaaS platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Website
+[https://fyutrex.com](https://fyutrex.com)
+
+### 📫 Contact
+`info@fyutrex.com`  
+`business@fyutrex.com`
+
+---
+_The future starts here._
